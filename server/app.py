@@ -4,7 +4,7 @@ from flask_cors import CORS
 # configuration
 DEBUG = True
 
-# instantiate the app
+# instantiate the apppip 
 app = Flask(__name__)
 app.config.from_object(__name__)
 
