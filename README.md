@@ -15,8 +15,6 @@ A simple CRUD(create, read, update, delete) site that uses a python flask backen
 5. In the client directory run 'npm run serve' (if there is a compile error try running with a '--fix' at the end of the command).
 6. The server should be running on 'http://localhost:5000' and the site itself on 'http://localhost:8080'.
 
-
-
 # Built With
 - [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
